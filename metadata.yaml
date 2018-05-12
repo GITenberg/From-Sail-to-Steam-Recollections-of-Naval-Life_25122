@@ -1,0 +1,33 @@
+_repo: From-Sail-to-Steam-Recollections-of-Naval-Life_25122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: The life of Admiral Mahan spanned the age of sail; the Civil War, the
+  War in the Pacific, and the Spanish-American War; the rise of steam power, and the
+  international political dramas that would explode into the First World War. He tells
+  his story in this 1907 memoir.
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- History'
+- !lcc 'VA'
+title: From Sail to Steam, Recollections of Naval Life
+url: http://www.gutenberg.org/ebooks/25122
